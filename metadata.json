@@ -1,0 +1,12 @@
+{
+  "name": "Remix Remix Remix Nari Surakshya / VoxShield",
+  "description": "Production-oriented women\u0027s safety ecosystem with multi-signal risk engine, secret phrase trigger, live location sharing, offline SMS fallback, and BLE proximity safety.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone",
+    "bluetooth"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
